@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add lesson1">
-      <change afterPath="$PROJECT_DIR$/lesson1/hw1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/hw1/main.js" afterDir="false" />
+    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add practuka">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/practuka/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/practuka/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,13 @@
       <workItem from="1667376864888" duration="9359000" />
       <workItem from="1667401244573" duration="4701000" />
       <workItem from="1667423113418" duration="1049000" />
-      <workItem from="1667497236402" duration="1960000" />
+      <workItem from="1667497236402" duration="7487000" />
+      <workItem from="1667549348329" duration="17656000" />
+      <workItem from="1667593254626" duration="3806000" />
+      <workItem from="1667656800997" duration="7343000" />
+      <workItem from="1667814953557" duration="5206000" />
+      <workItem from="1667833570080" duration="4138000" />
+      <workItem from="1667903847554" duration="11392000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1">
       <created>1667377457156</created>
@@ -72,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667377457156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add hw1">
+      <created>1667499241729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667499241729</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add lesson2">
+      <created>1667561889845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667561889845</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add practuka">
+      <created>1667573312302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667573312302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +117,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lesson1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson1" />
+    <MESSAGE value="add hw1" />
+    <MESSAGE value="add lesson2" />
+    <MESSAGE value="add practuka" />
+    <option name="LAST_COMMIT_MESSAGE" value="add practuka" />
   </component>
 </project>

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add practuka">
+    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add pract">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/practuka/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/practuka/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,9 @@
       <workItem from="1667656800997" duration="7343000" />
       <workItem from="1667814953557" duration="5206000" />
       <workItem from="1667833570080" duration="4138000" />
-      <workItem from="1667903847554" duration="11392000" />
+      <workItem from="1667903847554" duration="23517000" />
+      <workItem from="1668008668442" duration="1758000" />
+      <workItem from="1668015540681" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1">
       <created>1667377457156</created>
@@ -98,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667573312302</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add pract">
+      <created>1667922652968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667922652968</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add pract">
+      <created>1667922774631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667922774631</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +135,7 @@
     <MESSAGE value="add hw1" />
     <MESSAGE value="add lesson2" />
     <MESSAGE value="add practuka" />
-    <option name="LAST_COMMIT_MESSAGE" value="add practuka" />
+    <MESSAGE value="add pract" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pract" />
   </component>
 </project>

@@ -88,3 +88,36 @@ let users = [
 // users.map((value, index) => {
 //     return {id: index + 1, name: value.name, age: value.age, status: value.status}
 // // })
+// let filter = users.filter(user=>user.age >45);
+// console.log(filter);
+// let filter = users.filter(user=>user.name==='max');
+// // console.log(filter);
+// let map= users.map(function (usrer) {
+//     let newUser = {name: users.name, age: users.age}
+//     return newUser
+//    })
+
+    // users
+    //     .map((user, index )=>(
+    //            {id:index +1, name: user.name}))
+    //     .filter(value => value.id % 2 === 0)
+    //     .forEach(value=>console.log(value ));
+    // // console.log(map);
+console.log(users.sort((a ,b) => {
+    if (a.name < b.name ) {
+        return 1;
+    }
+    if (a.name > b.name ){
+        return -1;
+    }
+    if (a.name === b.name ) {
+        return 0;
+    }
+
+    }))
+let reduce = users.reduce((accumulator ,user)=>{
+    accumulator.names.push(user.name);
+    accumulator.ages.push(user.ages);
+    return accumulator ;
+},{ names:[] , ages:[], status :[]})
+console.log(reduce);

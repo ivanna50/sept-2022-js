@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add hw_4">
+    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add lesson6">
+      <change afterPath="$PROJECT_DIR$/hw6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/hw_4_for/index..html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/hw_4_for/index..html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/hw_4_for/main.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/hw_4_for/main.1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,17 @@
       <workItem from="1668279643194" duration="2646000" />
       <workItem from="1668282946890" duration="1593000" />
       <workItem from="1668327855538" duration="4396000" />
-      <workItem from="1668346499384" duration="13596000" />
+      <workItem from="1668346499384" duration="13785000" />
+      <workItem from="1668753902078" duration="12512000" />
+      <workItem from="1668783703222" duration="5526000" />
+      <workItem from="1668942670219" duration="20166000" />
+      <workItem from="1669127129571" duration="7251000" />
+      <workItem from="1669148228405" duration="6586000" />
+      <workItem from="1669197032290" duration="7318000" />
+      <workItem from="1669224389531" duration="1497000" />
+      <workItem from="1669231783487" duration="4026000" />
+      <workItem from="1669454571316" duration="8262000" />
+      <workItem from="1669474410856" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1">
       <created>1667377457156</created>
@@ -150,7 +161,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668091811379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add practuka_for">
+      <created>1668362990254</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668362990254</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add lesson5">
+      <created>1668796929422</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668796929422</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add practuka function">
+      <created>1669068799656</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669068799656</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add lesson6">
+      <created>1669154813060</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669154813060</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +215,11 @@
     <MESSAGE value="Add hw3" />
     <MESSAGE value="add lesson4" />
     <MESSAGE value="add hw_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw_4" />
+    <MESSAGE value="add practuka_for" />
+    <MESSAGE value="add lesson5" />
+    <MESSAGE value="add practuka function" />
+    <MESSAGE value="add lesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

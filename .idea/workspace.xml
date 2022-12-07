@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add lesson6">
-      <change afterPath="$PROJECT_DIR$/hw6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw6/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
+    <list default="true" id="26c408bd-b813-4cde-95c7-8735394c1ced" name="Changes" comment="add consultation">
+      <change afterPath="$PROJECT_DIR$/lesson8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,21 @@
       <workItem from="1669224389531" duration="1497000" />
       <workItem from="1669231783487" duration="4026000" />
       <workItem from="1669454571316" duration="8262000" />
-      <workItem from="1669474410856" duration="808000" />
+      <workItem from="1669474410856" duration="6210000" />
+      <workItem from="1669501508788" duration="2307000" />
+      <workItem from="1669573371388" duration="4618000" />
+      <workItem from="1669798036933" duration="11033000" />
+      <workItem from="1669816165510" duration="6947000" />
+      <workItem from="1669886422702" duration="7714000" />
+      <workItem from="1669904541993" duration="8215000" />
+      <workItem from="1670157899535" duration="450000" />
+      <workItem from="1670158457020" duration="145000" />
+      <workItem from="1670158640855" duration="40000" />
+      <workItem from="1670158719907" duration="6623000" />
+      <workItem from="1670237718945" duration="4514000" />
+      <workItem from="1670267953513" duration="4430000" />
+      <workItem from="1670323096377" duration="9924000" />
+      <workItem from="1670401929560" duration="11162000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1">
       <created>1667377457156</created>
@@ -189,7 +204,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669154813060</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add hw6">
+      <created>1669475316827</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669475316827</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add lesson7">
+      <created>1669810475289</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1669810475289</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add consultation">
+      <created>1670273727579</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670273727579</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +255,10 @@
     <MESSAGE value="add lesson5" />
     <MESSAGE value="add practuka function" />
     <MESSAGE value="add lesson6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson6" />
+    <MESSAGE value="add hw6" />
+    <MESSAGE value="add lesson7" />
+    <MESSAGE value="add consultation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add consultation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,48 @@
+body{
+    background: lightslategray ;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+
+}
+.father{
+    display:  flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.clas {
+    background: aquamarine;
+    width: 500px;
+    height: 110px;
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    justify-items: center;
+    border: lightgray solid 2px;
+}
+.block {
+
+    /*padding: 10px;*/
+    /*margin: 15px;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.great{
+
+    width: 147px;
+    height:300px;
+    border: plum solid 1px  ;
+    display: flex;
+    align-items:  normal ;
+    text-align: left  ;
+    margin: 3px;
+    padding: 2px;
+
+
+}

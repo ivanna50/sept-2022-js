@@ -35,11 +35,11 @@ img{
     background: darkslategrey;
 }
 .left{
-    border-top-left-radius-radius-radius: 60% ;
-    border-bottom-left-radius-radius-radius:60% ;
+    border-top-left-radius: 60% ;
+    border-bottom-left-radius:60% ;
 
 
 .right {
-    border-top-right-radius-radius: 60%;
-    border-bottom-right-radius-radius: 60%;
+    border-top-right-radius: 60%;
+    border-bottom-right-radius: 60%;
 }

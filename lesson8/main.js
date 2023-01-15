@@ -167,7 +167,4 @@ for (const value of popelushka) {
         }
 
     }
-
 }
-
-

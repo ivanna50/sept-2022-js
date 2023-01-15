@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="main.css ">
+    <style>
+        img {
+            display: block;
+            cursor: pointer;
+        }
+
+    </style>
+    <style>
+        #flyjet {
+            width: 40px;
+            height: 24px;
+            transition: all 3s cubic-bezier(0.25, 1.5, 0.75, 1.5);
+        }
+        #flyjet.growing{
+            width: 400px;
+            height: 240px;
+        }
+    </style>
+</head>
+<body>
+
+<button id="newButton">Click me</button>
+<img id="flyjet" src="https://en.js.cx/clipart/flyjet.jpg">
+
+<script src="main.js"></script>
+<div class=fakeMenu>
+    <div class="fakeButtons fakeClose"></div>
+    <div class="fakeButtons fakeMinimize"></div>
+    <div class="fakeButtons fakeZoom"></div>
+</div>
+
+<script src="index.js"></script>
+<div>
+    <p class="line4">><span class="cursor4">_</span></p>
+</div>
+</body>
+</html>

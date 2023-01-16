@@ -17,23 +17,49 @@
 //
 //         }
 //     })
-fetch('https://reqres.in/api/users')
-     .then(response=>response.json())
-     .then((value)=> {
-         let {data} = value;
-         console.log(data);
-
-         for (const user of data) {
-             let div = document.createElement('div')
-             div.classList.add('user_box');
-             let h2 = document.createElement('h1')
-             h2.innerText = `${user.id}${user.first_name}${user.last_name}`;
-             div.append(h2);
-             document.body.append(div);
-             let img = document.createElement('img')
-             img.src = user.avatar;
-             div.append (img);
-         }
+localStorage.setItem('bgColor', 'green');
+const bgColor = localStorage.getItem('bgColor');
+localStorage.removeItem('bgColor');
 
 
-     })
+const elementList = document.querySelector('#list');
+const elementBtn = elementList.querySelector('button');
+const elementUl = elementList.querySelector('ul');
+
+function updateStorage() {
+    const data = [];
+    for (let element of elementUl.querySelectorAll('li')) {
+        data.push(element.textContent);
+    }
+    localStorage ['items'] = JSON.stringify(data);
+}
+
+function updateUl(items) {
+     const html = [];
+    for (let item of items) {
+        html.push (`<li>${item}</li> `)
+    }
+    elementUl.innerHTML=html.join('');
+
+}
+
+elementBtn.onclick=()=>{
+    const elementsLi=elementUl.querySelectorAll('li');
+    const newLi=document.createElement ('li');
+    newLi.textContent=elementsLi.length + 1;
+    elementUl.append(newLi );
+    updateStorage();
+}
+
+window.onstorage=event =>{
+    updateUl(JSON.parse(event.newValue) );
+}
+
+localStorage.setItem('bg','rer');
+localStorage.setItem('bg','black');
+localStorage.setItem('color','purpure');
+localStorage.setItem('weather','nice');
+localStorage.setItem('weather','bad');
+localStorage.setItem('weather','good');
+localStorage.setItem('wow','gooder');
+newLi.innerText =JSON.stringify ['hello'];
